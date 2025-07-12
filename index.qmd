@@ -2,6 +2,8 @@
 
 This is a Quarto book, generated using the `sipbs-compbiol-book-template` GitHub template.
 
+AND I HAVE JUST MADE AN EDIT TO IT!
+
 The `index.qmd` file provides this Preface page, which is intended as a frontispiece with brief introductory information about the book and its contents and scope and, maybe, its authors. To change the main text and content you see here (the content in the middle section of the page), you need to edit the `index.qmd` file.
 
 - To learn more about writing Quarto books, visit [https://quarto.org/docs/books](https://quarto.org/docs/books).
