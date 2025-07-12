@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book, generated using the `sipbs-compbiol-book-template` GitHub template. THIS IS AN EDIT!
+This is a Quarto book, generated using the `sipbs-compbiol-book-template` GitHub template.
 
 The `index.qmd` file provides this Preface page, which is intended as a frontispiece with brief introductory information about the book and its contents and scope and, maybe, its authors. To change the main text and content you see here (the content in the middle section of the page), you need to edit the `index.qmd` file.
 
